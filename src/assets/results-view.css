@@ -1,0 +1,13 @@
+
+.pokemon-results {
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+  }
+  
+.pokemon-level {
+height: 100%;
+}

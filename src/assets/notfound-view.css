@@ -1,0 +1,7 @@
+.notfound {
+    color: #ff0000;
+    padding: 3rem;
+}
+.notfound h1 {
+    font-size: 1rem;
+}

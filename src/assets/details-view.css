@@ -1,0 +1,40 @@
+
+.details {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+  }
+  
+  .details h1 {
+    text-align: center;
+  }
+  
+  .details-data {
+    display: flex;
+    flex-direction: row;
+    column-gap: 3rem;
+  }
+  .column-data {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
+  }
+  
+  .back-page {
+    position: relative;
+    box-shadow: 0px 0.313rem 0.625rem #5538ee14;
+    border: 0.063rem solid #5538ee24;
+    border-radius: 0.938rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    height: auto;
+    padding: 0.3rem;
+  }
+  .back-page:hover {
+    background-color: #b9b9b9;
+    cursor: pointer;
+  }
